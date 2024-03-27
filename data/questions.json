@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Madrid", "Rome", "Berlin", "Paris"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": [
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "George Washington",
+        "John Adams"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Which novel is often considered the best-selling book of all time?",
+      "options": [
+        "War and Peace",
+        "The Lord of the Rings",
+        "Don Quixote",
+        "The Bible"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Which actor portrayed the character Jack Dawson in the movie Titanic?",
+      "options": ["Leonardo DiCaprio", "Brad Pitt", "Johnny Depp", "Tom Hanks"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "In which sport would you perform a slam dunk?",
+      "options": ["Tennis", "Basketball", "Soccer", "Golf"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What does CPU stand for in computing?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Unit",
+        "Computer Power Unit"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "What is the value of π (pi) approximately equal to?",
+      "options": ["3.14", "2.71", "1.62", "4.79"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Who directed the 1994 film 'Pulp Fiction'?",
+      "options": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "Christopher Nolan"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctOption": 1,
+      "points": 30
+    }
+  ]
+}
