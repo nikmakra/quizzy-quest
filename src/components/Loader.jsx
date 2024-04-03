@@ -6,8 +6,8 @@ function Loader() {
         <div></div>
         <div></div>
         <div></div>
-        <p className="loader-text">Please wait a second...</p>
       </div>
+      <p className="loader-text">Please wait a second...</p>
     </div>
   );
 }

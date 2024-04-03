@@ -1,5 +1,9 @@
 function Error() {
-  return <p>There was a problem with internet connection ⛔</p>;
+  return (
+    <div className="error">
+      <p>There was a problem with internet connection ⛔</p>
+    </div>
+  );
 }
 
 export default Error;
